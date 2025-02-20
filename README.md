@@ -82,11 +82,7 @@ git clone https://github.com/UpendrA-StaRK/Term_Emulator.git
    ./TerminalEmulatorApp
    ```
 
-## Contribution
+## Contribution🛠
 
 Feel free to contribute by submitting issues and pull requests.
-
-## License
-
-[Specify License Here]
 
