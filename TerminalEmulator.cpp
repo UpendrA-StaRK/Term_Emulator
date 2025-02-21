@@ -1,6 +1,7 @@
 // TerminalEmulator.cpp
 #include "TerminalEmulator.h"
 
+#include <QDebug>
 #include <QVBoxLayout> //Provides vertical layout management.
 #include <QApplication> //The base class for Qt GUI applications.
 #include <QTimer>
